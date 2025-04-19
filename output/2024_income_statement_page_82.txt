@@ -1,0 +1,64 @@
+83
+
+Heineken
+NV.
+Annual
+Report.
+2024
+
+Introduction
+
+Report
+of the
+Executive
+Board
+
+Report
+of the
+Supervisory
+Board
+
+Financial
+
+Statements
+
+Sustainability
+Statements
+
+Other
+Information
+
+Consolidated Statement of Cash Flows
+
+For the year ended 31 December
+
+In millions of € Note 2024 2023 In millions of € Note 2024 2023
+Operating activities Investing activities
+Profit 1,161 2,401 Proceeds from sale of property, plant and equipment and 152 154
+Adjustments for: intangible assets
+Amaortisation, depreciation and impairments 66 2,605 3,096 Purchase of property, plant and equipment (2,184) (2,434)
+Net interest expenses m4 570 550 Purchase of intangible assets (281) (243)
+Other income 62 (37) (352) Loans issued to customers and other investments (221) (244)
+Share of profit of associates and joint ventures and dividend income 687 (226) Repayment on loans to customers and other investments 89 96
+on fair value through OCI investments Cash flow used in operational investing activities (2,445) (2,671)
+Income tax expenses 121 846 121 Free operating cash flow 3,058 1,759
+Other non-cash items 226 537 Acquisition of subsidiaries, net of cash acquired (4) (806)
+Cash flow from operations before changes in working capital 6,058 6,127 Acquisition of/additions to associates, joint ventures and other (44) (409)
+and provisions investments
+Change in inventories (39) (4) Disposal of subsidiaries, net of cash disposed of 14 257
+Change in trade and other receivables 347 (42) Disposal of associates, joint ventures and other investments 44 53
+Change in trade and other payables and returnable packaging deposits 543 (100) Cash flow used in acquisitions and disposals 10 (905)
+Total change in working capital 851 (146) Cash flow used in investing activities (2,435) (3,576)
+Change in provisions and post-retirement obligations (6) (32) Financing activities
+Cash flow from operations 6,903 5,949 Proceeds from borrowings 3,076 6,751
+Interest paid (668) (624) Repayment of borrowings (4,091) (4,614)
+Interest received 120 118 Payment of principal portion of lease commitments (355) (390)
+Dividends received 199 147 Dividends paid (1,199) (1,335)
+Income taxes paid (1,051) (1,160) Purchase own shares and shares issued (5) (942)
+Cash flow related to interest, dividend and income tax (1,400) (1,519) Acquisition of non-controlling interests _— (286)
+Cash flow from operating activities 5,503 4,430 Cash flow used in financing activities (2,574) (816)
+Net cash flow 494 38
+Cash and cash equivalents as at 1 January 1,425 1,618
+Effect of movements in exchange rates (166) (231)
+Cash and cash equivalents as at 31 December 12 1,753 1,425
+

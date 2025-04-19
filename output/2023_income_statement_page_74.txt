@@ -1,0 +1,32 @@
+75 Consolidated Income Statement Consolidated Statement of Other Comprehensive Income
+
+For the year ended 31 December For the year ended 31 December
+Heinen In millions of € Note 2023 2022. —_Inmillions of € Note 2023 2022
+Annual Revenue 61 36,375 34,676 Profit 2,401 3,039
+ae * Excise tax expense 61 (6,013) (5,957) Other comprehensive income, net of tax:
+Net revenue 61 30,362 28,719 Items that will not be reclassified to profit or loss:
+Other income 62 393 147 Remeasurement of post-retirement obligations 123 (66) 63
+Raw materials, consumables and services 63 (20,077) (18,618) Net change in fair value through OCI investments 123 — 15
+Personnel expenses 64 (4,353) (4,079) Items that may be subsequently reclassified to profit or loss:
+Amaortisation, depreciation and impairments 66 (3,096) (1,886) Currency translation differences 5(b)/123 (170) 437
+Total other expenses (27,526) (24,583) Change in fair value of net investment hedges 123 (28) (62)
+imaretirete Operating profit 3,229 4,283 Change in fair value of cash flow hedges 123 (135) (142)
+Interest income W4 90 74 Cash flow hedges reclassified to profit or loss 123 12 38
+Interest expenses a4 (640) (458) Net change in fair value through OCI investments - debt
+Cae Other net finance income/(expenses) m4 (375) 48 investments 123 1 _
+Executive Net finance expenses (925) (336) Costof hedging 116/123 2 (1)
+Board Share of profit of associates and joint ventures 103 218 223 Share of other comprehensive income of associates/joint ventures 103/123 (75) (46)
+aepont Profit before income tax 2522 4,170 Other comprehensive income, net of tax 123 (459) 302
+of the Income tax expense 1 (121) (1,131) Total comprehensive income 1,942 3,341
+a) Profit 2,401 3,039 Attributable to:
+‘Attributable to: Shareholders of the Company 2,032 3,039
+Geant Shareholders of the Company (net profit) 2,304 2,682 Non-controlling interests (90) 302
+Statements Non-controlling interests 97 357 Total comprehensive income 1,942 3,341
+Profit 2,401 3,039
+toy Weighted average number of shares — basic 67 563,448,845 575,563,505
+Weighted average number of shares — diluted 67 563,979,620 576,026,120
+Basic earnings per share (€) 67 4.09 4.66
+Other Diluted earnings per share (€) 67 409 465
+Information
+a
+4

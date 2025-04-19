@@ -1,0 +1,35 @@
+CONSOLIDATED STATEMENT
+OF COMPREHENSIVE INCOME
+
+For the year ended 31 December
+In millions of EUR Note 2016 2015
+
+Profit 1,739 2,141
+Other comprehensive income:
+Items that will not be reclassified to profit or loss:
+
+Actuarial gains and losses 24 (252) 95
+Items that may be subsequently reclassified to profit or loss:
+
+Currency translation differences 24 (908) (43)
+Recycling of currency translation differences to profit or loss 24 _— 129
+Effective portion of net investment hedges 24 44 15
+Effective portion of changes in fair value of cash flow hedges 24 6 23
+Effective portion of cash flow hedges transferred to profit or loss 24 41 24
+Net change in fair value available-for-sale investments 24 140 43
+Recycling of fair value of available-for-sale investments to profit or loss 24 _ (16)
+Share of other comprehensive income of associates/joint ventures 24 _— 7
+Other comprehensive income, net of tax 24 (929) 277
+Total comprehensive income 810 2,418
+
+Attributable to:
+
+Equity holders of Heineken Holding N.V. 334 1,087
+Non-controlling interests in Heineken N.V. 326 1,063
+Non-controlling interests in Heineken N.V.
+
+group companies 150 268
+Total comprehensive income 810 2,418
+
+FINANCIAL STATEMENTS 2016
+27

@@ -1,0 +1,131 @@
+85
+
+Heineken
+NV.
+Annual
+Report.
+2024
+
+Introduction
+
+Report
+of the
+Executive
+Board
+
+Report
+of the
+Supervisory
+Board
+
+Financial
+
+Statements
+
+Sustainability
+Statements
+
+Other
+Information
+
+Notes to the Consolidated Financial Statements
+
+1. Reporting entity
+
+Heineken N.V. (the ‘Company’ is a public company domiciled in the Netherlands, with its head office in
+Amsterdam. The address of the Company's registered office is Tweede Weteringplantsoen 21, 1017 ZD,
+Amsterdam. The consolidated financial statements of the Company as at 31 December 2024 comprise the
+Company, its subsidiaries (together referred to as ‘HEINEKEN’) and HEINEKEN's interests in joint ventures and
+associates. The Company is registered in the Trade Register of Amsterdam No. 33011433. HEINEKEN is
+primarily involved in the brewing and selling of beer and cider. Led by the Heineken® brand, HEINEKEN has a
+range of more than 340 international, regional, local and speciality beers and ciders.
+
+2. Basis of preparation
+The consolidated financial statements are:
+
+— Prepared in accordance with International Financial Reporting Standards (IFRS) as adopted by the
+European Union (EU) and comply with the financial reporting requirements included in Part 9 of Book 2 of
+the Dutch Civil Code. All standards and interpretations issued by the International Accounting Standards
+Board (IASB) and the International Financial Reporting Interpretations Committee (IFRIC) effective year-
+end 2024 have been adopted by the EU.
+
+— Prepared by the Executive Board of the Company and authorised for issue on 11 February 2025 and will
+
+e submitted for adoption to the Annual General Meeting of Shareholders on 17 April 2025.
+
+— Prepared on the historical cost basis unless otherwise indicated.
+
+— Prepared on a going concern basis.
+
+— Presented in Euro, which is the Company's functional currency.
+
+— Rounded to the nearest million unless stated otherwise.
+
+3. Significant events in the period and accounting estimates and judgements
+
+a) Significant accounting estimates and judgement
+
+In preparing these consolidated financial statements, management is required to make estimates and
+judgements that affect the application of accounting policies and the reported amounts of assets and
+liabilities, income and expenses.
+
+The application of accounting policies requires judgements that impact the amounts recognised.
+Additionally, amounts recognised are based on factors that are by default associated with uncertainty. Actual
+results may therefore differ from estimates. Where applicable, the estimates and judgements are described
+per note within the consolidated financial statements.
+
+The following notes contain the most significant estimates and judgements:
+
+Particular area involving significant estimates and judgements Note
+
+Significant judgement
+
+Judgement on acting as principal versus agent with respect to 6.1 Operating segments
+
+excise tax expense
+
+10.3 Investments in associates and joint
+ventures
+
+Judgement used in assessing significant or prolonged decline in
+
+the fair value of the investment for indication of impairment
+Assessment of the recoverability of past tax losses 12.2 Deferred tax assets and liabilities
+
+Significant estimates
+
+8.1 Intangible assets and 8.2 Property, plant
+and equipment
+
+Assumptions used in impairment testing
+
+Assumptions for discount rates, future pension increases and life 9.1 Post-retirement obligations
+expectancy to calculate the defined benefit obligation
+Estimating the likelihood and timing of potential cash flows relating 9.2 Provisions and 9.3 Contingencies
+
+to daims and litigations
+
+All estimates and judgements are disclosed in the notes to the consolidated financial statements (if applicable).
+
+(b) Climate change
+
+In preparing the consolidated financial statements, HEINEKEN has considered climate change, including
+climate change scenarios and the Brew a Better World (BaBW) ambitions, on the estimates and judgements
+used in preparing the consolidated financial statements.
+
+The following impacts were assessed in the consolidated financial statements:
+
+— The impact of climate change on the residual values and useful lives of assets were considered in
+determining the carrying value of non-current assets (refer to note 8.1 and 8.2).
+
+— The impact of climate change was considered in relation to the recognition and measurement of
+provisions and contingencies (refer to note 9.2 and 9.3).
+
+— The impact of climate change was considered in relation to indications of impairment and the forecast of
+
+cash flows used in the impairment assessments of non-current assets including goodwill (refer to note 8.1
+and 8.2).
+
+For the year ended 31 December 2024, no material impact on financial reporting judgement and estimates
+arising from climate change was identified. As a result the valuations of assets or liabilities have not been
+significantly impacted by climate change risks.

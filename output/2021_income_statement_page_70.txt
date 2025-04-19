@@ -1,0 +1,31 @@
+inuoduction report of Beg ceportof ne : Einancial Sustainability Other Heineken NV. a) = 4 71 >
+nt pervisory Board statements Review Information Annual Report 2021
+Consolidated Income Statement Consolidated Statement of Other Comprehensive Income
+For the year ended 31 December For the year ended 31 December
+In millions of € Note 2021 2020 In millions of € Note 2021 2020
+Revenue 61 26,583 23,770 Profit/(Loss) 3,535 (88)
+Excise tax expense 61 (4,642) (4,055) Other comprehensive income/((loss), net of tax:
+Net revenue 61 21,941 19,715 Items that will not be reclassified to profit or loss:
+Other income 6.2 1,521 56 Remeasurement of post-retirement obligations 123 210 62
+Raw materials, consumables and services 63 (13,535) (12,450) Net change in fair value through OCI investments 123 9 (98)
+Personnel expenses 6.4 (3,485) (3,669) Items that may be subsequently reclassified to profit or loss:
+Amortisation, depreciation and impairments 6.6 (1,959) (2,874) Currency translation differences 5(b)/6.2/12.3 1,033 (2,114)
+Total other expenses (18,979) (18,993) Change in fair value of net investment hedges 123 (54) 76
+Operating profit 4,483 778 Change in fair value of cash flow hedges 123 97 45
+Interest income 11 49 50 Cash flow hedges reclassified to profit or loss 123 (3) 4
+Interest expenses 11 (462) (497) Net change in fair value through OCI investments 123 - (1)
+Other net finance income/(expenses) 11 14 (143) Cost of hedging 11.6/12.3 (6) (6)
+Net finance expenses (399) (590) Share of other comprehensive income of associates/joint ventures 10.3/12.3 54 16
+Share of profit/(loss) of associates and joint ventures 10.3 250 (31) Other comprehensive income/(loss), net of tax 123 1,340 (2,016)
+Profit before income tax 4,334 157 Total comprehensive income/(loss) 4,875 (2,104)
+Income tax expense 121 (799) (245) Attributable to:
+Profit/(Loss) 3,535 (88) Shareholders of the Company 4,562 (2,127)
+Attributable to: Non-controlling interests 313 23
+Shareholders of the Company (net profit/(loss)) 3,324 (204) Total comprehensive income/(loss) 4,875 (2,104)
+Non-controlling interests 211 116
+Profit/(Loss) 3,535 (88)
+Weighted average number of shares — basic 6.7 575,740,269 575,625,598
+Weighted average number of shares — diluted 6.7 575,969,395 575,625,598
+Basic earnings per share (€) 6.7 5.77 (0.36)
+Diluted earnings per share (€) 6.7 5.77 (0.36)
+

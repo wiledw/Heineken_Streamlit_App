@@ -2,6 +2,8 @@
 
 A Streamlit-powered data visualization and AI assistant tool that helps analyze 10 years of Heineken's financial performance using CSV input and OpenAI's GPT-4o.
 
+Demo link: https://drive.google.com/file/d/1KuVBmaMde9-7ob13v8fo9u-1aipAdYTl/view?usp=sharing
+
 ---
 
 ## 🔧 Features of the APP

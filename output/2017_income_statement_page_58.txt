@@ -1,0 +1,34 @@
+Report of the Report of the Financial Sustainability Other
+Introduction Executive Board Supervisory Board Statements Review Information
+
+Heineken N.V. Annual Report 2017
+
+Consolidated Statement of Comprehensive Income
+
+For the year ended 31 December
+In millions of € Note 2017 2016
+Profit 2,153 1,739
+
+Other comprehensive income, net of tax:
+
+Items that will not be reclassified to profit or loss:
+
+Actuarial gains and losses 24 64 (252)
+Items that may be subsequently reclassified to profit or loss:
+
+Currency translation differences 24 (1,485) (908)
+Recycling of currency translation differences to profit or loss 24 59 -
+Effective portion of net investment hedges 24 26 44
+Effective portion of changes in fair value of cash flow hedges 24 109 6
+Effective portion of cash flow hedges transferred to profit or loss 24 (3) 4)
+Net change in fair value available-for-sale investments 24 68 140
+Share of other comprehensive income of associates/joint ventures 24 (7) -
+Other comprehensive income, net of tax 24 (1,169) (929)
+Total comprehensive income 984 810
+Attributable to:
+
+Equity holders of the Company 881 660
+Non-controlling interests 103 150
+
+Total comprehensive income 984 810
+

@@ -1,0 +1,25 @@
+Introduction Enceutve Board Review Information AmcReporor «= YD) =D
+Consolidated Statement of Financial Position
+As at 31 December
+In millions of € Note 2021 2020 In millions of € Note 2021 2020
+ntangible assets 8.1 20,762 15,767 Shareholders’ equity 4 17,356 13,392
+Property, plant and equipment 8.2 12,401 11,551 Non-controlling interests 4 2,344 1,000
+nvestments in associates and joint ventures 10.3 4148 4,437 Total equity 19,700 14,392
+Loans and advances to customers 83 209 194
+Deferred tax assets 12.2 682 779 Borrowings 13 13,640 14,616
+Other non-current assets 84 1,070 884 Post-retirement obligations 91 668 938
+Total non-current assets 39,272 33,612 Provisions 9.2 636 688
+Deferred tax liabilities 12.2 1,971 999
+nventories 71 2,438 1,958 Other non-current liabilities 11.6 141 131
+rade and other receivables 72 3,662 2,807 Total non-current liabilities 17,056 17,372
+Current tax assets 97 154
+Derivative assets 11.6 96 77 Borrowings 11.2/11.3 3,233 3,580
+Cash and cash equivalents 11.2 3,248 4,000 Trade and other payables 73 7,750 6,107
+Assets classified as held for sale 10.2 37 24 Returnable packaging deposits 74 476 454
+Total current assets 9,578 9,020 Provisions 9.2 301 416
+Current tax liabilities 268 259
+Derivative liabilities 11.6 46 52
+Liabilities associated with assets classified as held for sale 10.2 20 -
+Total current liabilities 12,094 10,868
+Total assets 48,850 42,632 Total equity and liabilities 48,850 42,632
+

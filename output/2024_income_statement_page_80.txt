@@ -1,0 +1,74 @@
+81
+
+Heineken
+NV.
+Annual
+Report.
+2024
+
+Introduction
+
+Report
+of the
+Executive
+Board
+
+Report
+of the
+Supervisory
+Board
+
+Financial
+
+Statements
+
+Sustainability
+Statements
+
+Other
+Information
+
+Consolidated Income Statement
+
+For the year ended 31 December
+
+Consolidated Statement of Other Comprehensive Income
+
+For the year ended 31 December
+
+In millions of € Note 2024 2023 In millions of € Note 2024 2023
+Revenue 61 35,955, 36,375 Profit 1,161 2,401
+Excise tax expense 61 (6,134) (6,013) | Other comprehensive income, net of tax:
+
+Net revenue 61 29,821 30,362 Items that will not be reclassified to profit or loss:
+
+Other income 62 80 393 Remeasurement of post-retirement obligations 123 68 (66)
+Raw materials, consumables and services 63 (19,313) (20,077) Net change in fair value through OCI investments 123 (106) _
+Personnel expenses 64 (4,466) (4,353) Items that may be subsequently reclassified to profit or loss:
+
+Amaortisation, depreciation and impairments 66 (2,605) (3,096) Currency translation differences 5(b)/12.3 (567) (170)
+Total other expenses (26,384) (27,526) — Change in fair value of net investment hedges 123 14 (28)
+Operating profit 3,517 3,229 Change in fair value of cash flow hedges 123 166 (135)
+Interest income m1 110 90 Cash flow hedges reclassified to profit or loss 123 (9) 12
+Interest expenses A (680) (640) Net change in fair value through OCI investments — debt
+
+Other net finance income/(expenses) m1 (235) (375) investments 123 t 1
+Net finance expenses (805) (925) Cost of hedging 116/123 (1) 2
+Share of profit/(loss) of associates and joint ventures 103 (705) 218 Share of other comprehensive income of associates/joint ventures 103/123 59 (75)
+Profit before income tax 2,007 2522 Other comprehensive income/(expense), net of tax 123 (375) (459)
+Income tax expense 1 (846) (121) Total comprehensive income/(expense) 786 1,942
+Profit 1,161 2,401 Attributable to:
+
+Attributable to: Shareholders of the Company 506 2,032
+Shareholders of the Company (net profit) 978 2,304 Non-controlling interests 280 (90)
+Non-controlling interests 183 97 Total comprehensive income/(expense) 786 1,942
+Profit 1,161 2,401
+
+Weighted average number of shares — basic 67 560,188,961 563,448,845
+
+Weighted average number of shares — diluted 67 560,639,030 563,979,620
+
+Basic earnings per share (€) 67 1.75 4.09
+
+Diluted earnings per share (€) 67 1.74 4.09
+
